@@ -1,0 +1,50 @@
+table, th, td {
+    
+    border: 2px;
+    border-collapse: collapse;
+    border-style: solid;
+    background-color: #dffffb;
+
+}
+
+th {
+    padding: 10px;
+    color: #001A23;
+    background-color: #92d3b0;
+}
+
+.areas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+header {
+    font-family: monospace;
+    background-color: #B3EFB2;
+    color: #001A23;
+}
+
+tr {
+    font-family: monospace;
+    color: #001A23;
+    
+}
+
+footer {
+    font-family: monospace;
+    color: #001A23;
+    background-color: #E8F1F2;
+}
+
+#description {
+    font-family: monospace;
+    color: #001A23;
+    background-color: #d8ffd8;
+}
+
+th, td {
+    padding: 20px;
+    text-align: center;
+}
